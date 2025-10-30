@@ -1,4 +1,4 @@
-# ⚙️ Phase Prediction of High Entropy Alloys | Machine Learning Project
+## ⚙️ Phase Prediction of High Entropy Alloys | Machine Learning Project
 
 ## 🧠 Overview
 This project focuses on predicting the **phase formation in High Entropy Alloys (HEAs)** using machine learning.  
