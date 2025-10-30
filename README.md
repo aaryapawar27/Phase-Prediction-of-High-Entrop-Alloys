@@ -56,5 +56,5 @@ Future improvements include:
 
 ---
 
-## 📂 Repository Structure
+
 
